@@ -16,7 +16,7 @@ export GTK_THEME=Gruvbox-Material:Dark
    source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
  fi
 
-source powerlevel10k/powerlevel10k.zsh-theme
+source "$HOME/.config/zsh/powerlevel10k/powerlevel10k.zsh-theme"
 
 # To customize prompt, run `p10k configure` or edit ~/.config/zsh/.p10k.zsh.
 #
