@@ -27,6 +27,8 @@ alias ss='sudo systemctl'
 
 alias gs='git status'
 alias gc='git commit'
+alias gch='git checkout'
+alias gchb='git checkout -b'
 alias ga='git add'
 alias gp='git push'
 alias gca='git commit --amend --no-edit'
