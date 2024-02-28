@@ -1,2 +1,6 @@
 [submodule "nvim/"]
 	branch = master
+[submodule "nvim"]
+	path = nvim
+	url = https://github.com/trevg22/kickstart.nvim.git
+	branch = master
