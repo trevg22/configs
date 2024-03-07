@@ -2,3 +2,7 @@
 	path = nvim
 	url = https://github.com/trevg22/kickstart.nvim.git
 	branch = master
+[submodule "zsh"]
+	path = zsh
+	url = https://github.com/trevg22/zdotdir.git
+	branch = main
