@@ -4,5 +4,5 @@
 	branch = master
 [submodule "zsh"]
 	path = zsh
-	url = https://github.com/trevg22/zdotdir.git
+	url = https://github.com/trevg22/zsh.git
 	branch = main
