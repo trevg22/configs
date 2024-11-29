@@ -1,8 +1,8 @@
 [submodule "nvim"]
-	path = nvim
+	path = dotfiles/nvim
 	url = https://github.com/trevg22/kickstart.nvim.git
 	branch = master
 [submodule "zsh"]
-	path = zsh
+	path = dotfiles/zsh
 	url = https://github.com/trevg22/zsh.git
 	branch = main
