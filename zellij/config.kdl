@@ -111,7 +111,7 @@ keybinds clear-defaults=true {
 	}
 	tmux {
 		bind "[" { SwitchToMode "Scroll"; }
-		bind "Ctrl b" { Write 2; SwitchToMode "Normal"; }
+		//bind "Ctrl b" { Write 2; SwitchToMode "Normal"; }
 		bind "\"" { NewPane "Down"; SwitchToMode "Normal"; }
 		bind "%" { NewPane "Right"; SwitchToMode "Normal"; }
 		bind "z" { ToggleFocusFullscreen; SwitchToMode "Normal"; }
@@ -155,7 +155,7 @@ keybinds clear-defaults=true {
 		bind "Ctrl s" { SwitchToMode "Scroll"; }
 	}
 	shared_except "session" "locked" {
-		bind "Ctrl x" { SwitchToMode "Session"; }
+		//bind "Ctrl x" { SwitchToMode "Session"; }
 	}
 	shared_except "tab" "locked" {
 		bind "Ctrl t" { SwitchToMode "Tab"; }
@@ -164,7 +164,7 @@ keybinds clear-defaults=true {
 		bind "Alt r" { SwitchToMode "RenameTab"; }
 	}
 	shared_except "tmux" "locked" {
-		bind "Ctrl b" { SwitchToMode "Tmux"; }
+		//bind "Ctrl b" { SwitchToMode "Tmux"; }
 	}
 }
 
