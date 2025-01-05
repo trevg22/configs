@@ -1,0 +1,22 @@
+{
+  "add a plugin dialog": "/home/trevor/Downloads",
+  "add books dialog dir": "/home/trevor",
+  "add books dialog dir-last-used-filter-spec-all-files": false,
+  "catalogs_to_be_synced": {
+    "__class__": "set",
+    "__value__": []
+  },
+  "database location dialog": "/home/trevor/Documents/Calibre Library",
+  "sort_history": [
+    [
+      "timestamp",
+      false
+    ],
+    [
+      "timestamp",
+      false
+    ]
+  ],
+  "welcome_wizard_device": "kobo",
+  "welcome_wizard_was_run": true
+}
