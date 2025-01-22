@@ -4,3 +4,7 @@
 	url = https://github.com/trevg22/kickstart.nvim.git
 	branch = master
 
+[submodule "zsh/.config/zsh"]
+	path = zsh/.config/zsh
+	url = https://github.com/trevg22/zsh.git
+	branch = main
