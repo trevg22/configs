@@ -1,7 +1,7 @@
 
 [submodule "nvim/.config/nvim"]
 	path = nvim/.config/nvim
-	url = https://github.com/trevg22/kickstart.nvim.git
+	url = https://github.com/trevg22/kickstart-slim.git
 	branch = master
 
 [submodule "zsh/.config/zsh"]
