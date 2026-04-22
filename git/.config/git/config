@@ -1,0 +1,5 @@
+[credential]
+    helper = !pass-git-helper $@
+
+[core]
+    askpass =
